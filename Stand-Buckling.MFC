@@ -1,0 +1,16 @@
+[StartTime]
+Stand-Buckling.MFC=
+[SolverState]
+Stand-Buckling.MFC=2
+[MainFrame]
+Stand-Buckling.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Stand-Buckling.MFC=yes
+[SolverType]
+Stand-Buckling.MFC=Linear Analysis
+[StudyType]
+Stand-Buckling.MFC=-1
+[StudyName]
+[Solver]
+Stand-Buckling.MFC=Iterative
+[StudyName1]
